@@ -1,5 +1,5 @@
-/*#header-section {
-    background-image: url('/Images/main-background.jpg');
+#header-section {
+    background-image: url('../Images/main-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -8,6 +8,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#sub-hero{
+    font-size: 30px;
 }
 header, h1{
     display: block;
@@ -29,11 +32,9 @@ header, h1{
 .center-text {
     text-align: center;
 }
-    */
-body {
-    background-color: red;
+.why-div {
+    display: flex;
 }
-
-h1 {
-    color: blue;
+.section-image {
+    width: 50%;
 }
