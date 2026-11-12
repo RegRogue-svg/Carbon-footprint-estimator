@@ -1,4 +1,4 @@
-#header-section {
+/*#header-section {
     background-image: url('/Images/main-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -28,4 +28,12 @@ header, h1{
 }
 .center-text {
     text-align: center;
+}
+    */
+body {
+    background-color: red;
+}
+
+h1 {
+    color: blue;
 }
